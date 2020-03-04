@@ -1,6 +1,6 @@
 public class Beginning {
 
-    public static void main(String[] args) {
-	System.out.println("Hello!");
+    public static void Start(String[] args) {
+	System.out.println("Hello, let`s work!");
     }
 }
